@@ -4,8 +4,8 @@
 
 ## 🚀 Sobre mí
 
-- 💻 **Desarrollador & Entusiasta de la tecnología**
-- 🤝 Siempre abierto a colaborar en cualquier proyecti
+- 💻 **Ingeniero en Informática**
+- 🤝 Siempre abierto a colaborar en cualquier proyecto
 - 🌱 Aprendiendo y compartiendo conocimientos constantemente
 
 ## 🛠️ Tecnologías
