@@ -10,7 +10,7 @@
 
 ## 🛠️ Tecnologías
 
-- **Lenguajes:** TypeScript, C#, SQL
+- **Lenguajes:** TypeScript, C#, Php, SQL
 - **Frameworks:** Angular, Astro, .Net, NestJS, Laravel
 - **Herramientas:** Git, Docker, Figma, Postman
 
