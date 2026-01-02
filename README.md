@@ -11,7 +11,7 @@
 ## 🛠️ Tecnologías
 
 - **Lenguajes:** TypeScript, C#, Php, SQL
-- **Frameworks:** Angular, Astro, .Net, NestJS, Laravel
+- **Frameworks:** Angular, Astro, .Net, NestJS, Laravel, Go
 - **Herramientas:** Git, Docker, Figma, Postman
 
 ## 📈 Estadísticas de GitHub
